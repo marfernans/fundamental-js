@@ -1,7 +1,7 @@
 var nombre = 'Mario Enrique'
 
 function imprimirNombreEnMayusculas(nombre){
-    nombre = nombre.toLocaleUpperCase()
+    nombre = nombre.toUpperCase()
     console.log(nombre)
 }
 
